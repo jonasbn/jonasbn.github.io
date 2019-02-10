@@ -2,7 +2,7 @@
 
 I am jonasbn, computer programmer, runner, LEGO builder, _power napper_ and father of 2 boys all squeezed in the few hours available in the day.
 
-I have several [GitHub repositories](https://github.com/jonasbn), which might be of interest or your can check [my blog on dev.to](https://dev.to/jonasbn) or [my older blog on Wordpress](https://lastmover.wordpress.com/) - or if you prefer short form, check Twitter whereI am [@jonasbn](https://twitter.com/jonasbn).
+I have several [GitHub repositories](https://github.com/jonasbn), which might be of interest or your can check [my blog on dev.to](https://dev.to/jonasbn) or [my older blog on Wordpress](https://lastmover.wordpress.com/) - or if you prefer short form, check Twitter where I am [@jonasbn](https://twitter.com/jonasbn).
 
 If you want to know more about me, check out [my about.me page](https://about.me/jonasbn) or [my Linkedin profile](https://www.linkedin.com/in/jonasbn/).
 

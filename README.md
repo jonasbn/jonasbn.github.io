@@ -4,7 +4,7 @@ I am jonasbn, computer programmer, runner, LEGO builder, _power napper_ and fath
 
 I have several [GitHub repositories](https://github.com/jonasbn), which might be of interest or your can check [my blog on dev.to](https://dev.to/jonasbn) or [my older blog on Wordpress](https://lastmover.wordpress.com/) - or if you prefer short form, check Twitter where I am [@jonasbn](https://twitter.com/jonasbn).
 
-If you want to know more about me, check out [my about.me page](https://about.me/jonasbn) or [my Linkedin profile](https://www.linkedin.com/in/jonasbn/).
+If you want to know more about me, check out [my about.me page](https://about.me/jonasbn) or [my LinkedIn profile](https://www.linkedin.com/in/jonasbn/).
 
 The most popular presentation I ever did is [available on SlideShare](https://www.slideshare.net/jonasbn/perl-and-jenkins-for-osd2011) and is on the topic of implementing Continuous Integration for Perl using Jenkins. I have done many talks of the years at conferences, workshops and user group meetings, some are even [caught on video](https://www.youtube.com/watch?v=r1pQllQo7MQ&t=9s&list=PLE3HjmQMwpQQ_UBvLwYxPZ13M9eM5MraZ&index=18)
 

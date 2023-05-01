@@ -2,4 +2,3 @@ SlideShare
 jonasbn
 dev
 LinkedIn
-ReStructuredText

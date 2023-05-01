@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+*{font-family: 'Orbitron', sans-serif;}
+
+a:link, a:hover, a:visited, a:active {
+    color: black;
+    text-decoration: underline;
+    font-weight: normal;
+}

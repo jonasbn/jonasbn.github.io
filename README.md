@@ -15,7 +15,7 @@ The most popular presentation I ever did is [available on SlideShare](https://ww
 Some of the most popular Open Source projects I have worked on are:
 
 - [Workflow](https://metacpan.org/pod/Workflow) - _Simple, flexible system to implement workflows_ in Perl
-- [GitHub Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action) - _A GitHub Action for spellchecking your Markdown and ReStructuredText files_
+- [GitHub Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action) - _A GitHub Action for spellchecking your Markdown, Python and Text files_
 
 If you came here to learn something, you might find my [_today I learned_ repository](http://jonasbn.github.io/til/), more interesting.
 
